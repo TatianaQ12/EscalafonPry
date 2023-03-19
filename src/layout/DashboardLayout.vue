@@ -23,6 +23,11 @@
         <p>Administrativos</p>
       </sidebar-link>
       
+      <sidebar-link to="/admin/table-list">
+        <i class="nc-icon nc-notes"></i>
+        <p>FREDDY</p>
+      </sidebar-link>
+      
 
       <!--
       <template slot="bottom-links">
